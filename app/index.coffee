@@ -9,4 +9,4 @@ module.exports = () ->
     .then (contents) ->
       console.log contents
     .catch (ele) ->
-      console.log ele.stac
+      console.log ele.stack
