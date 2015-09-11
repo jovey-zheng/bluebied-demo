@@ -1,0 +1,29 @@
+{
+  "name": "bluebird",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "app.js",
+  "dependencies": {
+    "bluebird": "^2.10.0",
+    "fs": "^0.0.2"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.10.0"
+  },
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jovey-zheng/bluebied-demo.git"
+  },
+  "keywords": [
+    "bluebird"
+  ],
+  "author": "jovey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jovey-zheng/bluebied-demo/issues"
+  },
+  "homepage": "https://github.com/jovey-zheng/bluebied-demo#readme"
+}
