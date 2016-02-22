@@ -5,5 +5,5 @@ node module `bluebird` demo.
 # Usage
 
 ```
-$ npm install -g  &&  $ node app
+$ npm install  &&  $ node app
 ```
